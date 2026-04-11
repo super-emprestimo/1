@@ -1,15 +1,15 @@
 const baseLinks = {
-    up1: "https://pay.paguefinal.space/c/c53d4d63-3164-4620-b0e1-d5be6f89c7c2", // IOF
-    up2: "https://pay.paguefinal.space/c/471b4a4d-ee84-4b5c-905e-3196fbb7aeeb", // Taxa de verificação de IOF
-    up3: "https://pay.paguefinal.space/c/49e3ee56-f5f9-41d2-924a-ca519e508a7b", // Seguro Prestamista "tarifa de cadastro"
-    up4: "https://pay.paguefinal.space/c/7153b9df-5c4c-4d4a-af53-40d5170ddc46", // NFe
-    up5: "https://pay.paguefinal.space/c/7b324c81-31fa-47c3-bb0a-29b46be658d2", // Ativar conta
-    up6: "https://pay.paguefinal.space/c/945d7f19-4af6-475e-b606-2db54d7f23d0", // Taxa de registro do contrato
-    up7: "https://pay.paguefinal.space/c/ee799875-a624-4393-b5e8-57c97c9d8316", // Parabéns, 20k adicional
-    up8: "https://pay.paguefinal.space/c/3ddd6223-f6c6-44fc-8e62-fa77087c78af", // Erro no pagamento - 14,06
-    up9: "https://pay.paguefinal.space/c/fbc51445-40ff-4d75-925c-5c14a076b89a", // APP - 11,99
-    up10:"https://pay.paguefinal.space/c/cd502a39-b123-4e97-a4b4-cf12006c7d82", // Taxa de Abertura TAC - 16,92
-    up11:"https://pay.paguefinal.space/c/3c6884d8-744c-423e-ba6c-f1bb8af60e6f", // Taxa de Consultoria Financeira - 19,53
+    up1: "https://www.pagamentos-seguro.link/checkout/5c143e1e-7ec4-4ab1-a1e6-e17263bd5eea", // IOF
+    up2: "https://www.pagamentos-seguro.link/checkout/285d31b9-203a-4566-ba85-761ebd0ac71a", // Taxa de verificação de IOF
+    up3: "https://www.pagamentos-seguro.link/checkout/59834d16-1711-47b4-ba34-97c5df782b62", // Seguro Prestamista "tarifa de cadastro"
+    up4: "https://www.pagamentos-seguro.link/checkout/1e1920b4-f1e4-46c0-8d60-5b4442d36494", // NFe
+    up5: "https://www.pagamentos-seguro.link/checkout/b3b8810e-ca3c-4b64-91ea-333b34f96667", // Ativar conta
+    up6: "https://www.pagamentos-seguro.link/checkout/b1ef9c0f-2540-4497-9790-e6cccc009378", // Taxa de registro do contrato
+    up7: "https://www.pagamentos-seguro.link/checkout/8b0cf684-a1ef-4b07-8df8-9942c4f7974a", // Parabéns, 20k adicional
+    up8: "https://www.pagamentos-seguro.link/checkout/06a0f412-1490-403e-905b-884acf6fabac", // Erro no pagamento - 14,06
+    up9: "https://www.pagamentos-seguro.link/checkout/238cb13e-f206-490c-b37f-b580840d5c93", // APP - 11,99
+    up10:"https://www.pagamentos-seguro.link/checkout/c30cdb82-87d8-4f26-b809-b6a53d4e1234", // Taxa de Abertura TAC - 16,92
+    up11:"https://www.pagamentos-seguro.link/checkout/0cf9261c-91f3-4abe-bfa2-1b1bd1606a62", // Taxa de Consultoria Financeira - 19,53
     up12:"https://pay.paguefinal.space/c/b0169469-cebc-43af-8ef4-076055e8b716" // Taxa de Processamento Administrativo - 31,92
 
 };
